@@ -66,20 +66,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSET-17&layout=pie&bg_color=0d1117&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-<img align="left" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=JSET-17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-     alt="adam-pw" 
-     bg_color=#808080/>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=JSET-17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+       alt="adam-pw" 
+       bg_color=#808080/>
 </p>
 
+<br>
+
 <p>&nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=JSET-17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-         alt="adam-pw"/>
- </p>
- 
- <br>
- 
- <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JSET-17&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-         alt="adam-pw" />
- </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JSET-17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+       alt="JSET-17" />
+</p>
+
+<br>
+
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JSET-17&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
+       alt="JSET-17"/>
+</p>
+
+
