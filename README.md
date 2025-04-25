@@ -6,7 +6,7 @@
 
 <br>
 
-:computer::books:I am currently learning Java, SpringBoot and React JS.:books::computer:
+:computer::books:I am currently learning Java, SpringBoot and Vue js.:books::computer:
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,26 +37,34 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
   
 
 <br>
 
-<h3 align="left">Frontend</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+<h3 align="left">Frontend</h3>  
+    <a href="https://es.vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://es.vuejs.org/images/logo.png" alt="vue js" width="40" height="40" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>       
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>    
-
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>   
+    
 <br>
 
 <h3 align="left">Database</h3>
+    <a href="https://locusit.se/techpost/technology/ms-sql-server-for-data-science/" target="_blank" rel="noreferrer">
+        <img src="https://locusit.se/wp-content/uploads/2024/08/MS-SQL-Server.png" alt="sqlserver" width="40" height="40" /></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>    
+    <a href="https://img.icons8.com/?size=48&id=38561&format=png" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="sqlserver" width="40" height="40" /></a> 
+    <a href="https://en.m.wikipedia.org/wiki/File:SQLite370.svg" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png" alt="sqlserver" width="40" height="40" /></a> 
 
 <br>
 <br>
