@@ -71,14 +71,22 @@
 
 <h3>Statistical Data</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSET-17&layout=pie&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- El atributo text_color raramente solo funciona con un lenguaje, el color blanco se refleja bien
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSET-17&layout=pie&bg_color=0d1117&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <br>
 
 <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSET-17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    bg_color=#808080/>
-       
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSET-17&show_icons=true&locale=en&bg_color=0d1117&layout=compact"/>
+
+<!-- El atributo text_color raramente solo funciona con un lenguaje, el color blanco se refleja bien
+<img align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSET-17&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"/>
+ -->
+ 
 <br>
 
 <p>
